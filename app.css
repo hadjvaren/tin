@@ -33,10 +33,9 @@ nav {
     background-color: rgb(126, 16, 16);
     margin: 0;
     border: 0;
-    padding: 0.5vh;
+    padding: 0.5vh; }
  
- class="rainbow rainbow_text_animated"
-}
+
 
 nav :hover {color: #ff7b00;
     font-weight: bolder;
@@ -114,6 +113,7 @@ a {
 
 
 #nah {max-width: max-content;}
+
 
 
 
