@@ -95,7 +95,7 @@ a {
 .rainbow {
     text-align: center;
     text-decoration: underline;
-    font-size: 32vmax;
+    font-size: 32px;
     font-family: monospace;
     letter-spacing: 5px;
 }
@@ -117,6 +117,7 @@ a {
         background-position: 100% 0;
     }
 }
+
 
 
 
