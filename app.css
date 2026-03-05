@@ -64,9 +64,11 @@ a {
     max-width   : 35vmax;
     margin: 2vmax;
 }
-#nhungngaygiongbao { text-align: center;
+#nhungngaygiongbao {
                     font-size: 1vmax;
-
+#ln1 {text-align: center
+    
+}
     
 }
 
@@ -113,6 +115,7 @@ a {
         background-position: 100% 0;
     }
 }
+
 
 
 
