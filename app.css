@@ -52,7 +52,6 @@ nav :hover {color: #ff7b00;
 
 
 a {
-    margin-block: inherit;
     margin-left: 3vw;
     font-size: 1vmax;
     color: rgb(255, 208, 0);
@@ -112,7 +111,7 @@ a {
 }
 
 
-#nah {max-width: max-content;}
+
 
 
 
