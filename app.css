@@ -95,7 +95,7 @@ section{
     text-align: center;
     text-decoration: underline;
     font-size: 32px;
-    font-family: monospace;
+    font-family: Verdana;
     letter-spacing: 5px;
 }
 .rainbow_text_animated {
@@ -119,5 +119,6 @@ section{
 
 
 #nah {max-width: max-content;}
+
 
 
