@@ -87,8 +87,8 @@ a {
 .rainbow {
     text-align: center;
     text-decoration: underline;
-    font-size: 32px;
-    font-family: Verdana;
+    font-size: 32vmax;
+    font-family: monospace;
     letter-spacing: 5px;
 }
 .rainbow_text_animated {
@@ -109,6 +109,7 @@ a {
         background-position: 100% 0;
     }
 }
+
 
 
 
