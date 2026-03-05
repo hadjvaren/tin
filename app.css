@@ -1,6 +1,7 @@
 
 body{background-color: rgb(30, 32, 32);
     color: azure;
+    font: Verdana;
 }
 header {
     background-image: url(migolkvb-truong-quoc-hoc-hue-thumb_optimized.jpg);
@@ -118,4 +119,5 @@ section{
 
 
 #nah {max-width: max-content;}
+
 
