@@ -13,7 +13,6 @@ header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 2vmax;
     line-height: 1vh;
-    text-wrap-style: stable;
 }
 
 #hd {
@@ -45,14 +44,10 @@ nav :hover {color: #ff7b00;
 
 }
 
-#clickme { font-size: 20vw;
-    text-align: center;
-    font-weight: bolder
 
 
 
 
-}
 
 
 
@@ -86,6 +81,15 @@ a {
     border: 3px solid;
 }
 
+section{
+
+　　border: 3px solid;
+   background-color: rgb(126, 16, 16);
+
+    
+}
+
+
 .rainbow {
     text-align: center;
     text-decoration: underline;
@@ -111,5 +115,6 @@ a {
         background-position: 100% 0;
     }
 }
+
 
 #nah {max-width: max-content;}
