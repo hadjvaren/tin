@@ -17,10 +17,6 @@ header {
     padding-left: 2vw
 }
 
-#hd {
-    padding-left: 2vw
-}
-
 h1 {
     line-height: 1vmax
 }
@@ -121,6 +117,7 @@ a {
         background-position: 100% 0;
     }
 }
+
 
 
 
