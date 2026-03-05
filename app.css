@@ -64,15 +64,18 @@ a {
     max-width   : 35vmax;
     margin: 2vmax;
 }
+
+
+#ln1 {text-align: center
+      font-size: 2vmax;
+     }
 #nhungngaygiongbao {
                     font-size: 1vmax; }
     
-#ln1 {text-align: center
-      font-size: 2vmax;
     
 }
     
-}
+
 
 #shadowBox {
     background-color: rgb(0, 0, 0);
@@ -117,6 +120,7 @@ a {
         background-position: 100% 0;
     }
 }
+
 
 
 
